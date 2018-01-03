@@ -16,4 +16,4 @@ A pure rust mqtt client.
 
 ## To Do
 
-* Disk Persitance
+* Disk persistence
